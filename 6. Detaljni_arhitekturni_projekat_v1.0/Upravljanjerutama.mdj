@@ -6011,7 +6011,7 @@
 											"top": 314.5,
 											"width": 145,
 											"height": 13,
-											"text": "Upravljanje rutama"
+											"text": "Upravlja rutama"
 										},
 										{
 											"_type": "LabelView",
@@ -7043,7 +7043,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGE7TY4gefVz/c="
 					},
-					"name": "Upravljanje rutama",
+					"name": "Upravlja rutama",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",

@@ -81,7 +81,7 @@
 											"top": 202.5,
 											"width": 176,
 											"height": 13,
-											"text": "Kontaktiranje administratora"
+											"text": "Kontaktira administratora"
 										},
 										{
 											"_type": "LabelView",
@@ -114,7 +114,7 @@
 									"font": "Arial;13;0",
 									"left": 95,
 									"top": 195.5,
-									"width": 186.9853515625,
+									"width": 186,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGE7gDnYP1+Zlo="
@@ -833,7 +833,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGE7gBp2v11QGo="
 					},
-					"name": "Kontaktiranje administratora",
+					"name": "Kontaktira administratora",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
